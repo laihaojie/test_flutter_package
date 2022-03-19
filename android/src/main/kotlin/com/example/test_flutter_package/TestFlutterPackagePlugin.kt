@@ -1,4 +1,4 @@
-package com.flutter.package.test_flutter_package
+package com.example.test_flutter_package
 
 import androidx.annotation.NonNull
 

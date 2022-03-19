@@ -1,4 +1,4 @@
-group 'com.flutter.package.test_flutter_package'
+group 'com.example.test_flutter_package'
 version '1.0-SNAPSHOT'
 
 buildscript {
