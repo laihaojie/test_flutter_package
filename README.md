@@ -16,5 +16,5 @@ samples, guidance on mobile development, and a full API reference.
 ## script
 
 ```
-flutter create --template=plugin --org com.flutter.package --platforms=android,ios -a kotlin -i swift projectName
+flutter create --template=plugin --org com.example --platforms=android,ios -a kotlin -i swift projectName
 ```
